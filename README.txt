@@ -1,0 +1,1 @@
+O site é apenas uma brincadeira, uma forma de testar as funcionalidades do Django
